@@ -5,7 +5,7 @@ This repository contains a production-grade Bash script (`deploy.sh`) developed 
 
 ## 👨‍💻 Author
 **Full Name:** Solomon  
-**Slack Username:** @solomon-dev
+**Slack Username:** @ASOCODE
 
 ## 🛠️ Script Features
 - Interactive user input collection with validation
